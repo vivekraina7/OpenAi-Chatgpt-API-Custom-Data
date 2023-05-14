@@ -36,13 +36,9 @@ Before running the chatbot, ensure you have the following:
 
 4. Run the chatbot:
    - Execute the chatbot script: `Openai_Chatgpt_API_app.ipynb`
-   - Start an interactive conversation with the chatbot via the command line interface.
+   - Start an interactive conversation with the chatbot via the command line interface or the Gradio webapp.
    - Enjoy chatting with the conversational chatbot powered by the OpenAI ChatGPT API!
 
 ## Contributing
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvement, please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
