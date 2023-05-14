@@ -2,6 +2,7 @@
 # Conversational Chatbot using OpenAI ChatGPT API
 
 This project demonstrates the development of a conversational chatbot using the OpenAI ChatGPT API. The chatbot is trained on a custom dataset that is scraped from various websites, allowing it to generate responses based on the information obtained.
+![image](https://github.com/vivekraina7/OpenAi-Chatgpt-API-Custom-Data/assets/87175291/dbcb873b-9c82-467e-abea-60d4e4de35ab)
 
 ## Features
 
