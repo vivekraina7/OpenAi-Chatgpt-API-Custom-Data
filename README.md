@@ -21,14 +21,12 @@ Before running the chatbot, ensure you have the following:
 ## Usage
 
 1. Set up the environment:
-   - Clone this repository: `git clone https://github.com/your-username/chatbot-project.git`
-   - Navigate to the project directory: `cd chatbot-project`
+   - Clone this repository: `git clone https://github.com/vivekraina7/OpenAi-Chatgpt-API-Custom-Data.git`
    - Install dependencies: `pip install -r requirements.txt`
-   - Add your OpenAI API key to the configuration file (`config.py`).
+   - Add your OpenAI API key to the configuration file (`Openai_Chatgpt_API_app.ipynb`).
 
 2. Scrape data:
-   - Update the `scraping.py` script to scrape relevant data from websites of your choice.
-   - Run the script: `python scraping.py`
+   - Add your desired website to the url section in the code
    - The scraped data will be saved to a file in the desired format (e.g., CSV, JSON).
 
 3. Train the chatbot:
@@ -37,7 +35,7 @@ Before running the chatbot, ensure you have the following:
    - Save the trained model for future use.
 
 4. Run the chatbot:
-   - Execute the chatbot script: `python chatbot.py`
+   - Execute the chatbot script: `Openai_Chatgpt_API_app.ipynb`
    - Start an interactive conversation with the chatbot via the command line interface.
    - Enjoy chatting with the conversational chatbot powered by the OpenAI ChatGPT API!
 
